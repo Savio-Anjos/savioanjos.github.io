@@ -5,3 +5,7 @@
 ##### Fique a vontade para clonar esse repositório e colocar suas próprias informações.
 
 #### Clone: git remote add origin https://github.com/Savio-Anjos/savioanjos.github.io.git
+
+### Imagem
+
+![Logo do Projeto](img/capa.png)
